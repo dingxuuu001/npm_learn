@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cnpm": "^9.2.0"
+  },
+  "name": "learn-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "node":"node -v",
+    "git":"git",
+    "test": "echo \"Hello World\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
